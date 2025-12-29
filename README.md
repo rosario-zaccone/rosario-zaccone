@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rosario Zaccone</h1>
+<h3 align="center">MSc Computer Science student @ University of Bologna</h3>
 
-<!--
-**rosario-zaccone/rosario-zaccone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Backend Development • Application Design • Data Analysis</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education**
+- MSc in Computer Science — University of Bologna  
+- BSc in Computer Science — University of Padua  
+
+---
+
+💻 **Interests**
+- Backend Software Development  
+- Application Design  
+- Data Analysis  
+
+---
+
+### 🛠️ Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php,c,cpp,python,javascript,html,css" />
+</p>
+
+---
+
+### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=qt,fastapi,spring,react,tailwind" />
+</p>
+
+- LangChain
+
+---
+
+### 🧰 Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,postgres,sqlite,linux,arduino" />
+</p>
+
+- JUnit  
+- PyTest  
+- Raspberry Pi  
+- Ubuntu  
+
+---
+
+
+### 🎨 Hobbies
+- ✏️ Drawing  
+- 🎮 Nintendo videogames  
+- 🌱 Plants & gardening  
+
+---
+
+📫 **Contact**
+- GitHub: https://github.com/rosario-zaccone
+
+📫 **Contact**
+- GitHub: https://github.com/rosario-zaccone
