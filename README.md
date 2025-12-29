@@ -29,22 +29,15 @@
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=qt,fastapi,spring,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=qt,fastapi,tailwind,langchain,spring,react" />
 </p>
-
-- LangChain
 
 ---
 
-### 🧰 Tools & Technologies
+### 🧰 Other Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,postgres,sqlite,linux,arduino" />
 </p>
-
-- JUnit  
-- PyTest  
-- Raspberry Pi  
-- Ubuntu  
 
 ---
 
@@ -55,9 +48,6 @@
 - 🌱 Plants & gardening  
 
 ---
-
-📫 **Contact**
-- GitHub: https://github.com/rosario-zaccone
 
 📫 **Contact**
 - GitHub: https://github.com/rosario-zaccone
