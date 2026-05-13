@@ -1,6 +1,4 @@
-<h1 align="center">
-  Rosario Zaccone
-</h1>
+![Banner](./banner.svg)
 
 <p align="center">
   MSc Computer Science
