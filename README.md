@@ -1,5 +1,5 @@
 <h1 align="center">
-  <i>Rosario</i> &nbsp;/&nbsp; Zaccone
+  Rosario Zaccone
 </h1>
 
 <p align="center">
