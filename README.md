@@ -1,64 +1,50 @@
-![Banner](./banner.svg)
+<div align="center">
 
-<p align="center">
-  MSc Computer Science
-</p>
+<img src="./banner.svg" alt="Rosario — MSc Computer Science" width="100%" />
 
-<p align="center">
-  Backend Development &nbsp;·&nbsp; Application Design &nbsp;·&nbsp; Data
-</p>
+</div>
 
 ---
 
-<table align="center" width="600">
-  <tr>
-    <td valign="top" width="300">
-      <sub><b>MSC COMPUTER SCIENCE</b></sub><br>
-      University of Bologna &nbsp;<sup><i>ongoing</i></sup>
-    </td>
-    <td valign="top" width="300">
-      <sub><b>BSC COMPUTER SCIENCE</b></sub><br>
-      University of Padua &nbsp;<sup><i>completed</i></sup>
-    </td>
-  </tr>
-</table>
+### 🎓 Education
+
+| | |
+|---|---|
+| **MSc Computer Science** | University of Bologna — 🟢 *Ongoing* |
+| **BSc Computer Science** | University of Padua — ✅ *Completed* |
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack
 
-### Programming Languages
+**Programming Languages**
 
-![Java](https://img.shields.io/badge/Java-1a3a5c?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1a3a5c?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a3a5c?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1a3a5c?style=flat-square&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-1a3a5c?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1a3a5c?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=black)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=black)
+![C](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=black)
 
----
+**Backend & APIs**
 
-### Backend & APIs
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4FD3C6?style=for-the-badge&logo=springboot&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-4FD3C6?style=for-the-badge&logo=fastapi&logoColor=black)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a3a5c?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a3a5c?style=flat-square&logo=fastapi&logoColor=white)
+**Data Engineering & Machine Learning**
 
----
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-white?style=for-the-badge&logo=apachespark&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-white?style=for-the-badge&logo=scikitlearn&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black)
 
-### Data Engineering & Machine Learning
+**Tools & Testing**
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-1a3a5c?style=flat-square&logo=apachespark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1a3a5c?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1a3a5c?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a3a5c?style=flat-square&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1a3a5c?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-111111?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-111111?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-111111?style=for-the-badge)
 
----
-
-### Tools & Testing
-
-![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-555555?style=flat-square&logo=apachemaven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-555555?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-555555?style=flat-square&logoColor=white)
+</div>
