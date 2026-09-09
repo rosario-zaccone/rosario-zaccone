@@ -44,6 +44,7 @@
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-111111?style=for-the-badge&logo=pytest&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-111111?style=for-the-badge&logo=poetry&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-111111?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-111111?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-111111?style=for-the-badge)
